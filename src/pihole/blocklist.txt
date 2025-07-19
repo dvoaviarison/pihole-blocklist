@@ -1,0 +1,10 @@
+# 07/19/2025
+# ======================================
+0.0.0.0 tools.mouseflow.com
+0.0.0.0 realtime.luckyorange.com
+0.0.0.0 api.bugsnag.com
+0.0.0.0 app.bugsnag.com
+0.0.0.0 browser.sentry-cdn.com
+0.0.0.0 app.getsentry.com
+0.0.0.0 events.reddit.com
+0.0.0.0 appmetrica.yandex.ru
