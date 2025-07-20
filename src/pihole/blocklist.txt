@@ -7,7 +7,7 @@
 ::1 localhost
 ::1 ip6-localhost
 ::1 ip6-loopback
-fe80::1%lo0 localhost
+fe80::1 lo0 localhost
 ff00::0 ip6-localnet
 ff00::0 ip6-mcastprefix
 ff02::1 ip6-allnodes
@@ -26,3 +26,4 @@ ff02::3 ip6-allhosts
 0.0.0.0 events.reddit.com
 0.0.0.0 appmetrica.yandex.ru
 0.0.0.0 weather-analytics-events.apple.com
+0.0.0.0 widgets.pinterest.com
