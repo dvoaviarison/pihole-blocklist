@@ -1,1 +1,2 @@
 0.0.0.0 copilot.microsoft.com
+0.0.0.0 grafana.net
